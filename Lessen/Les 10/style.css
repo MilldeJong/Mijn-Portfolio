@@ -1,0 +1,46 @@
+:root {
+  --primary-color: #651672;
+  --secondary-color: #dfaac4;
+  --background-color: #be70aa;
+  text-align: center;
+  font: Arial, sans-serif;
+  font-size: medium;
+}
+
+#over-mij {color:#8E1EA2}
+#Vaardigheden {color:#ad3cc4}
+#Projecten {color:#9720ac}
+
+.highlight {color:rgb(204, 26, 121)}
+.projects {color:#a6063e}
+.accent { color: var(--primary-color);}
+
+body {
+    background-color: var(--secondary-color);
+    color: #290f62;
+    font-family: Arial, sans-serif;
+}
+
+main {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 30px;
+}
+
+h1 { color:#290f62;
+    font-size: 40px;}
+
+h2 { color:#620674;
+    font-size: 35px;}
+
+h3 { color:#620674;
+    font-size: 40px;}
+
+p { line-height: 1.6;}
+
+footer {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    text-align: center;
+    padding: 20px;
+}
